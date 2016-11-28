@@ -78,12 +78,12 @@ You can also download the repository with Download zip or open in desktop with t
 # Congrats!
 You finish the navigation bar tutorial!
 You now know:
-* How to add/edit a branch.
-* How to open a pull request.
-* How to create a new file.
-* How to Upload a new file.
-* How to find a file.
-* How to clone and download.
+* How to [add/edit a branch](https://github.com/rickmix/Github-uitleg#create-a-branch).
+* How to [open a pull request](https://github.com/rickmix/Github-uitleg#open-a-pull-request).
+* How to [create a new file](https://github.com/rickmix/Github-uitleg#create-new-file).
+* How to [Upload a new file](https://github.com/rickmix/Github-uitleg#upload-files).
+* How to [find a file](https://github.com/rickmix/Github-uitleg#find-file).
+* How to [clone and download](https://github.com/rickmix/Github-uitleg#clone-or-download).
 </br>
 :confetti_ball::balloon::cake:
 </br>

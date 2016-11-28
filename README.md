@@ -1,2 +1,1 @@
-# Github_uitleg
-Uitleg over Github.
+# Github uitleg door Rick Schut en Marc Dufrasnes.

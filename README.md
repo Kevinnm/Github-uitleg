@@ -36,7 +36,7 @@ Here at GitHub, our developers, writers, and designers use branches for keeping 
 Now you have two branches, `master` and readme-edits. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
 # Open a Pull Request.
-Now that you have changes in a branch off of master, you can open a pull request.
+Now that you have changes in a branch off of `master`, you can open a pull request.
 
 Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
 
@@ -58,3 +58,19 @@ You can even open pull requests in your own repository and merge them yourself. 
 5. Give your pull request a title and write a brief description of your changes.	
 
 6. When you’re done with your message, click Create pull request!
+
+# Create new file.
+if you click on `Create new file` a new page will showup.
+Here you can add text for the new file.
+if you finish with the text click `Propose new file`.
+
+# Upload files.
+`Upload files` is the same as `Create new file` but in `Upload files` you can add files to your repository with drag and drop.
+
+# Find file.
+With `Find file` you can find all files in your repository
+
+# Clone or download
+The last button in the navigation bar is `Clone or download`.</br>
+With this button you can clone a repository to a editor or a program.
+You can also download the repository with Download zip or open in desktop with the GidHub desktop app.

@@ -1,8 +1,8 @@
 # Github tutorial made by Rick Schut & Marc Dufrasnes.
-### This Github tutorial goes about the navigation bar in a Github repository.
+### This GitHub tutorial goes about the navigation bar in a GitHub repository.
 ![alt text](https://github.com/rickmix/Github-uitleg/blob/master/images/nav_bar.png)
 
-# Create a branch
+# Create a branch.
 Branching is the way to work on different versions of a repository at one time.
 
 By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`.
@@ -26,7 +26,7 @@ Branches accomplish similar goals in GitHub repositories.
 
 Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our `master` (production) branch. When a change is ready, they merge their branch into `master`.
 
-## Create a new branch
+## Create a new branch.
 1. Go to your new repository hello-world.
 2. Click the drop down at the top of the file list that says branch: `master`.
 3. Type a branch name, readme-edits, into the new branch text box.
@@ -35,5 +35,26 @@ Here at GitHub, our developers, writers, and designers use branches for keeping 
 
 Now you have two branches, `master` and readme-edits. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
-### Wat kan de New pull request knop?
-Als je op `New pull request` 
+# Open a Pull Request.
+Now that you have changes in a branch off of master, you can open a pull request.
+
+Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+
+As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+
+By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
+
+You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
+
+### Open a Pull Request for changes to the README
+1. Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.	
+
+2. Select the branch you made, readme-edits, to compare with master (the original).	
+
+3. Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.	diff
+
+4. When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
+
+5. Give your pull request a title and write a brief description of your changes.	
+
+6. When you’re done with your message, click Create pull request!

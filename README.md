@@ -16,16 +16,6 @@ A new branch called feature (because we’re doing ‘feature work’ on this br
 The journey that feature takes before it’s merged into `master`
 
 ![alt text](https://guides.github.com/activities/hello-world/branching.png)
-
-Have you ever saved different versions of a file? Something like:
-
-* `test.txt`
-* `test-marc-edit.txt`
-* `test-rick-edit-reviewed.txt` <br>
-Branches accomplish similar goals in GitHub repositories.
-
-Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our `master` (production) branch. When a change is ready, they merge their branch into `master`.
-
 ## Create a new branch.
 1. Go to your new repository hello-world.
 2. Click the drop down at the top of the file list that says branch: `master`.

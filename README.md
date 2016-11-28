@@ -74,3 +74,17 @@ With `Find file` you can find all files in your repository
 The last button in the navigation bar is `Clone or download`.</br>
 With this button you can clone a repository to a editor or a program.
 You can also download the repository with Download zip or open in desktop with the GidHub desktop app.
+
+# Congrats!
+You finish the navigation bar tutorial!
+You now know:
+* How to add/edit a branch.
+* How to open a pull request.
+* How to create a new file.
+* How to Upload a new file.
+* How to find a file.
+* How to clone and download.
+</br>
+:confetti_ball::balloon::cake:
+</br>
+Thanks for reading this tutorial made by Rick Schut & Marc Dufrasnes.

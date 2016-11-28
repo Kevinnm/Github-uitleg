@@ -1,8 +1,8 @@
-# Github tutorial made by Rick Schut & Marc Dufrasnes.
-### This GitHub tutorial goes about the navigation bar in a GitHub repository.
+# Github tutorial made by Rick Schut & Marc Dufrasnes
+### This GitHub tutorial goes about the navigation bar in a GitHub repository
 ![alt text](https://github.com/rickmix/Github-uitleg/blob/master/images/nav_bar.png)
 
-# Create a branch.
+# Create a branch
 Branching is the way to work on different versions of a repository at one time.
 
 By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`.
@@ -16,7 +16,7 @@ A new branch called feature (because we’re doing ‘feature work’ on this br
 The journey that feature takes before it’s merged into `master`
 
 ![alt text](https://guides.github.com/activities/hello-world/branching.png)
-## Create a new branch.
+## Create a new branch
 1. Go to your new repository hello-world.
 2. Click the drop down at the top of the file list that says branch: `master`.
 3. Type a branch name, readme-edits, into the new branch text box.
@@ -25,7 +25,7 @@ The journey that feature takes before it’s merged into `master`
 
 Now you have two branches, `master` and readme-edits. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
-# Open a Pull Request.
+# Open a Pull Request
 Now that you have changes in a branch off of `master`, you can open a pull request.
 
 Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
@@ -49,15 +49,15 @@ You can even open pull requests in your own repository and merge them yourself. 
 
 6. When you’re done with your message, click Create pull request!
 
-# Create new file.
+# Create new file
 if you click on `Create new file` a new page will showup.
 Here you can add text for the new file.
 if you finish with the text click `Propose new file`.
 
-# Upload files.
+# Upload files
 `Upload files` is the same as `Create new file` but in `Upload files` you can add files to your repository with drag and drop.
 
-# Find file.
+# Find file
 With `Find file` you can find all files in your repository
 
 # Clone or download
